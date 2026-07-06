@@ -1,5 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Home } from './pages/Home';
 import { Validate } from './pages/Validate';
 import { Register } from './pages/Register';
@@ -24,6 +26,8 @@ export default function App() {
         <Route path="/story" element={<Story />} />
         <Route path="/pricing" element={<Pricing />} />
       </Routes>
+      <Analytics />
+      <SpeedInsights />
     </BrowserRouter>
   );
 }
