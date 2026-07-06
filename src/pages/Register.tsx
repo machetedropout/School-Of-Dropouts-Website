@@ -43,7 +43,7 @@ export function Register() {
 
         <div className="shortcut">
           <div className="lab">The shortcut</div>
-          <h3>We register companies. 260 and counting.</h3>
+          <h3>We register companies. 270 and counting.</h3>
           <p>You have seen the whole job. If you would rather not learn the forms, we do this every week. Name reservation, incorporation, secretary appointment, and your certificate, handled end to end.</p>
           <p><strong>Basic Company · P2,000 · ready in 5 working days</strong></p>
           <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>

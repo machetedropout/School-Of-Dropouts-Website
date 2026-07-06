@@ -24,7 +24,7 @@ export function Story() {
         <p>The same problem kept appearing. People in Botswana had good businesses inside them and no map for getting them out. They did not know how to register. They did not know what BURS would ask of them. They did not know which funding existed or why their applications kept failing. The knowledge existed, but it was scattered, guarded, and written in a language ordinary founders did not speak.</p>
 
         <h2>So we built the map</h2>
-        <p>School of Dropouts is the map. It is the thing the founder wishes someone had handed him on his first day. We register the companies. We file the taxes. We build the plans and the bids. And we teach, in plain words, so the next founder does not have to learn it the hard way too. We have done this work 260 times now, and we are not slowing down.</p>
+        <p>School of Dropouts is the map. It is the thing the founder wishes someone had handed him on his first day. We register the companies. We file the taxes. We build the plans and the bids. And we teach, in plain words, so the next founder does not have to learn it the hard way too. We have done this work 270 times now, and we are not slowing down.</p>
 
         <h2>Why dropouts</h2>
         <p>A dropout, here, is not someone who quit. A dropout is someone who refused the path everyone pointed at and went to build the thing instead. The street vendor who becomes a company. The graduate who chooses to create a job rather than wait for one. Entrepreneurship is problem solving for profit, and it is how a country moves forward. That is who this school is for.</p>

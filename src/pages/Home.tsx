@@ -21,11 +21,11 @@ export function Home() {
       <section className="proof">
         <div className="wrap">
           <div className="nums">
-            <div className="num"><div className="fig">260</div><div className="cap">companies registered</div></div>
-            <div className="num"><div className="fig">60K</div><div className="cap">followers</div></div>
-            <div className="num"><div className="fig">5M</div><div className="cap">views</div></div>
+            <div className="num"><div className="fig">270</div><div className="cap">companies registered</div></div>
+            <div className="num"><div className="fig">71K</div><div className="cap">followers</div></div>
+            <div className="num"><div className="fig">8M</div><div className="cap">views</div></div>
           </div>
-          <p>We have done this work 260 times. The rest of the country is watching us do it.</p>
+          <p>We have done this work 270 times. The rest of the country is watching us do it.</p>
         </div>
       </section>
 
